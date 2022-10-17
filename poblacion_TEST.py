@@ -2,7 +2,7 @@
 '''
 Created on 12 oct. 2018
 
-@author: Toñi Reina
+@author: Miguel Orta
 REVISOR: José Antonio Troyano, Daniel Mateos, Mariano González
 ÚLTIMA MODIFICACIÓN: 17/10/2018
 
