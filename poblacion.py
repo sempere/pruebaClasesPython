@@ -3,7 +3,7 @@
 ''' 
 Poblacion mundial
 
-@author: Toñi Reina
+@author: TMIGUEL ORTA
 REVISOR: José Antonio Troyano, Daniel Mateos, Mariano González
 ÚLTIMA MODIFICACIÓN: 07/10/2019
 
